@@ -1,11 +1,14 @@
-<h>Dimensions of Tidy Dataset</h>
+Dimensions of Tidy Dataset
 
 Rows/Observations = 180
 Columns/Variables = 81
 
-<h>Columns considered</h>
+-------------------------------------------
+
+Columns considered
 
 Only the ones with mean and standard deviation
+-------------------------------------------
 
 Data averaged on the basis of the subjects along with the following activities:
 
@@ -17,6 +20,8 @@ STANDING
 LAYING
 
 Subjects numbered sequentially fron 1 to 30.
+
+-------------------------------------------
 
 Columns in Tidy Data
 
