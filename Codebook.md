@@ -1,30 +1,35 @@
-Dimensions of Tidy Dataset
-
+Dimensions-of-Tidy-Dataset
+-------------------------
 Rows/Observations = 180
 Columns/Variables = 81
 
--------------------------------------------
+
 
 Columns considered
-
+--------------------
 Only the ones with mean and standard deviation
--------------------------------------------
+
 
 Data averaged on the basis of the subjects along with the following activities:
 
 WALKING
+
 WALKING_UPSTAIRS
+
 WALKING_DOWNSTAIRS
+
 SITTING
+
 STANDING
+
 LAYING
 
 Subjects numbered sequentially fron 1 to 30.
 
--------------------------------------------
+
 
 Columns in Tidy Data
-
+---------------------
 "activitylabel"
 "subject"
 "tBodyAcc-mean()-X"
